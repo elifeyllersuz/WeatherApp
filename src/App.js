@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { StyleSheet, Text, View, ImageBackground } from 'react-native';
 import DateTime from './components/DateTime/DateTime';
 import WeatherScrollView from './components/WeatherScrollView/WeatherScrollView';
-const APIKey = 'bcaeaa3b723ba4dadad3c96aa1960e28';
+const APIKey = 'your api key';
 //navigator.geolocation = require('@react-native-community/geolocation');
 import Geolocation from '@react-native-community/geolocation';
 
